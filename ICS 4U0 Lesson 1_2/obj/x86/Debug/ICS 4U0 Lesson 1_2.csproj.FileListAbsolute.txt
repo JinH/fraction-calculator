@@ -1,0 +1,26 @@
+C:\Users\Hao\Desktop\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\bin\Debug\ICS 4U0 Lesson 1_2.exe
+C:\Users\Hao\Desktop\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\bin\Debug\ICS 4U0 Lesson 1_2.pdb
+C:\Users\Hao\Desktop\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.csprojResolveAssemblyReference.cache
+C:\Users\Hao\Desktop\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS_4U0_Lesson_1_2.Form1.resources
+C:\Users\Hao\Desktop\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS_4U0_Lesson_1_2.Properties.Resources.resources
+C:\Users\Hao\Desktop\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.csproj.GenerateResource.Cache
+C:\Users\Hao\Desktop\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.exe
+C:\Users\Hao\Desktop\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.pdb
+D:\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.exe
+D:\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.pdb
+D:\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\bin\Debug\ICS 4U0 Lesson 1_2.exe
+D:\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\bin\Debug\ICS 4U0 Lesson 1_2.pdb
+D:\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.csprojResolveAssemblyReference.cache
+D:\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS_4U0_Lesson_1_2.Form1.resources
+D:\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS_4U0_Lesson_1_2.Properties.Resources.resources
+D:\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.exe
+C:\Users\Owner\Desktop\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.pdb
+C:\Users\Owner\Desktop\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\bin\Debug\ICS 4U0 Lesson 1_2.exe
+C:\Users\Owner\Desktop\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\bin\Debug\ICS 4U0 Lesson 1_2.pdb
+C:\Users\Owner\Desktop\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS_4U0_Lesson_1_2.Form1.resources
+C:\Users\Owner\Desktop\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS_4U0_Lesson_1_2.Properties.Resources.resources
+C:\Users\Owner\Desktop\Hao_Jin\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\YHack\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.exe
+C:\Users\Owner\Desktop\YHack\ICS 4U0 Lesson 1_2\ICS 4U0 Lesson 1_2\obj\x86\Debug\ICS 4U0 Lesson 1_2.pdb
